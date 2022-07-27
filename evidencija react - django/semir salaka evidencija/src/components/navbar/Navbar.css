@@ -1,0 +1,25 @@
+.navbar{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.space{
+    flex: 1;
+}
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+}
+
+.navbar li{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.navbar a{
+    text-decoration: none;
+
+}

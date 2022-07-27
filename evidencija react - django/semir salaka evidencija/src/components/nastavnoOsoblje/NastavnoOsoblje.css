@@ -1,0 +1,14 @@
+.aktivan{
+
+}
+.neaktivan{
+    background-color: red;
+}
+
+.naBolovanju{
+    background-color: orange;
+}
+
+.naOdmoru{
+    background-color: yellow;
+}
